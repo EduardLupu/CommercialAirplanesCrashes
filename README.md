@@ -1,5 +1,6 @@
 # CommercialAirplanesCrashes
 
-A page scraper for the wikipedia's list of accidents involving commercial aircraft.
--creates a simpler database in excel
--shows some statitics of the accidents.
+A page scraper for the wikipedia's list of accidents involving commercial aircraft.<br />
+<br />
+Creates a simpler database in excel.<br />
+Shows some statitics of the accidents.
